@@ -1,0 +1,7 @@
+.gradle/
+.idea
+build/
+*.iml
+out/
+.DS_Store
+cmake-build-debug/
