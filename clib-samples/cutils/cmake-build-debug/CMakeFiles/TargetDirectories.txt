@@ -1,0 +1,5 @@
+/Users/hadihariri/work/kotlin-native/data-mapping/cutils/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/hadihariri/work/kotlin-native/data-mapping/cutils/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/hadihariri/work/kotlin-native/data-mapping/cutils/cmake-build-debug/CMakeFiles/cutils_app.dir
+/Users/hadihariri/work/kotlin-native/data-mapping/cutils/cmake-build-debug/CMakeFiles/sharedlib.dir
+/Users/hadihariri/work/kotlin-native/data-mapping/cutils/cmake-build-debug/CMakeFiles/cutils.dir

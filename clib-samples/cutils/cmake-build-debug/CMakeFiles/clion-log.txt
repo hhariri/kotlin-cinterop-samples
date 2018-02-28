@@ -1,0 +1,4 @@
+"/Users/hadihariri/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-1/181.3870.21/CLion 2018.1 EAP.app/Contents/bin/cmake/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/hadihariri/work/kotlin-native/data-mapping/cutils
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/hadihariri/work/kotlin-native/data-mapping/cutils/cmake-build-debug
